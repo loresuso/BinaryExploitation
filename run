@@ -1,0 +1,3 @@
+#!/bin/sh
+
+setarch $(uname -m) -R "$1"
