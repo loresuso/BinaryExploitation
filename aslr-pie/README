@@ -1,0 +1,11 @@
+All servers are listening on lettieri.iet.unipi.it, on the following ports:
+	
+	server_0	7000
+	server_1	7001
+	server_2	7002
+
+The current directory of each server contains a 'flag.txt' file.
+
+The bin directory contains a copy of the actual binaries that are running
+on the remote machine. There is also a copy of the binary C library that
+they are using.
